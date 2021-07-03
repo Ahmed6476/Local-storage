@@ -1,0 +1,44 @@
+.login_position{
+    position:absolute;
+    top: 22%;
+    left: 38%;
+    right: 25%;
+}
+.signin_position{
+    position:absolute;
+    top: 2%;
+    left: 38%;
+    right: 25%;
+}
+/* .alignment{
+    position:relative;
+    top: 10%;
+    left: 38%;
+    right: 25%;
+    padding: 20px;
+}
+.cardalignment{
+    position:relative;
+    top: 63%;
+    
+    
+} */
+
+.Center{
+    /* background-color: white; */
+    position: relative;
+    top: 300px;
+    /* right: 450%; */
+    left: 450px;
+    transform: translate(0, -50%);
+    /* border: 1px ridge rgb(70, 0, 128) ; */
+    padding: 20px;
+}
+.card{
+    position: relative;
+    left: 10%;
+}
+#message{
+    text-align: center;
+    color: brown;
+}
